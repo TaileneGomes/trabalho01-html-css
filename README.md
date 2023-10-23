@@ -1,3 +1,3 @@
 # Trabalho de FrontEnd
 
-Este trabalho é referente a uma página básica de HTML com CSS
+Este trabalho é referente a uma página web básica de HTML com CSS
